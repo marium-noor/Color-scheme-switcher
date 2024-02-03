@@ -2,6 +2,10 @@
 
 This project is a simple web application that allows users to change the background color of the webpage by clicking on different color buttons.
 
+## How it looks
+
+<img width="565" alt="Screenshot 2024-02-03 173702" src="https://github.com/marium-noor/Color-scheme-switcher/assets/145590434/bc971117-4dd6-4ded-b8bb-58ae19decc86">
+
 ## Features
 
 - Four color buttons to choose from: Wenge, Rose Taupe, Rose Quartz, and Seashell.
